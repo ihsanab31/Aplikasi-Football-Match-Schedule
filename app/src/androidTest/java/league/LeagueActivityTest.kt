@@ -22,7 +22,7 @@ import org.junit.runner.RunWith
  * WA       : 085749729115
  * on       : 18, September, 2018
  * ------------------------------
- * This class for
+ * This class for test league
  */
 @RunWith(AndroidJUnit4::class)
 class LeagueActivityTest {
